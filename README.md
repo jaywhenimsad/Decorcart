@@ -28,7 +28,7 @@ A full-stack online furniture store built with:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/DecorCart.git
+[git clone https://github.com/your-username/DecorCart.git](https://github.com/jaywhenimsad/Decorcart.git)
 cd DecorCart
 ```
 
